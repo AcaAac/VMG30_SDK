@@ -1,0 +1,9 @@
+﻿  Test_SDK.cpp
+Test_SDK.cpp(22): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): vedere la dichiarazione di 'sprintf'
+Test_SDK.cpp(25): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): vedere la dichiarazione di 'sprintf'
+Test_SDK.cpp(53): warning C4102: 'startconn': etichetta senza riferimenti
+  Generazione codice in corso...
+  Generazione codice terminata
+  Test_SDK.vcxproj -> E:\Progetti\Data Glove\VHand 3.0\Guanto 18DOF\Software\SDK\Test_SDK\Test_SDK\Release\Test_SDK.exe
